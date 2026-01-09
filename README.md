@@ -54,3 +54,30 @@
 
 ##### Here you can change settings. 
 
+![Proxmox-console](src/)
+
+##### Update the system
+
+### Installing a virtual machine
+
+#### Use [Debian](debian.org) as a server. 
+
+
+#### Go to local(name-of-the-server) to `ÌSO Images` click Upload and select file from computer you are running beside you. 
+
+
+![Proxmox-console](src/)
+
+
+##### Go to your "name of the server" in this case PVE click create VM
+1. Pick ISO Image you downloaded, name it like debian-server.
+2. 100, is the ID to this computer.
+3. Fast forwarding to Disks, CPU, Memory adjust to your need or what the system can handle.
+4. Click Finish and then your done, now you can run the virtual computer and configure it.
+
+
+![Proxmox-console](src/)
+
+
+##### Here is my debian server without Desktop Environemt only CLI based 
+
