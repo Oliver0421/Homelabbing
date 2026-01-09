@@ -37,5 +37,20 @@
 
 ##### Password: Your password
 
+![Proxmox-console](src/)
 
+###### Now you are inside the console for proxmox
+
+### Change to no-subscription
+
+#### Visit this site  [Community-scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install). To get a runnable script file for updating the system. 
+
+![Proxmox-console](src/)
+
+### Go to shell, on your named server, paste it
+
+
+![Proxmox-console](src/)
+
+##### Here you can change settings. 
 
